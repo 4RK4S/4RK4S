@@ -1,3 +1,4 @@
+```md
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=46&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=700&height=80&lines=4RK4S;Arkas;Python+Developer;Discord+Bot+Developer;Automation+Tools" />
@@ -20,6 +21,18 @@
   </a>
 </p>
 
+<p>
+  <a href="https://4rk4s.github.io">
+    <img src="https://img.shields.io/badge/Website-4RK4S-7c3aed?style=for-the-badge" />
+  </a>
+  <a href="https://4rk4s.github.io/discord">
+    <img src="https://img.shields.io/badge/Discord-4rkas-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://4rk4s.github.io/mail">
+    <img src="https://img.shields.io/badge/Mail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 ---
@@ -32,10 +45,10 @@ I mainly work with **Python**, **Discord bots**, **backend APIs**, **automation 
 I like creating projects that solve real problems, improve workflows, or make managing communities easier.
 
 - 🐍 Python, FastAPI, Django and automation
-- 🤖 Discord bots with admin tools, giveaways, rankings and server systems
+- 🤖 Discord bots with admin tools, moderation, giveaways, rankings and server systems
 - 🌐 Web apps, dashboards and API integrations
-- 🎮 Game tools and community projects
-- 🚀 Currently working on **SLAHUB**
+- ⚙️ Scripts, automation tools and utilities
+- 🎮 Game-related tools and community projects
 
 ---
 
@@ -77,6 +90,7 @@ Features I have worked on:
 
 - role management
 - moderation systems
+- anti-raid / anti-nuke systems
 - giveaway systems
 - ranking and level panels
 - creator code management
@@ -94,6 +108,7 @@ Examples of what I work on:
 - REST API integrations
 - project dashboards
 - database-connected tools
+- utility websites
 
 ### ⚙️ Automation
 
@@ -110,16 +125,28 @@ Examples:
 
 ---
 
-## ✦ Featured Project
+## ✦ Featured Projects
 
 ### SLAHUB
 
-SLAHUB is one of my main projects connected with tools, automation and community features.
+A web project connected with tools, automation and community features.
 
 <div align="center">
 
 <a href="https://github.com/4RK4S/SLAHUB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4RK4S&repo=SLAHUB&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4RK4S&repo=SLAHUB&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</a>
+
+</div>
+
+### DC-BOT
+
+A Discord bot project focused on server management, automation and community features.
+
+<div align="center">
+
+<a href="https://github.com/4RK4S/DC-BOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4RK4S&repo=DC-BOT&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
 
 </div>
@@ -130,15 +157,15 @@ SLAHUB is one of my main projects connected with tools, automation and community
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4RK4S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=4RK4S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=4RK4S&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4RK4S&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4RK4S&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
@@ -148,16 +175,29 @@ SLAHUB is one of my main projects connected with tools, automation and community
 
 - backend architecture
 - API design
-- full-stack project organization
 - Discord bot systems
+- full-stack project organization
 - UI/UX for web tools
 - project deployment
+- cleaner code structure
 
 ---
 
 ## ✦ Contact
 
 <div align="center">
+
+<a href="https://4rk4s.github.io">
+  <img src="https://img.shields.io/badge/Website-4rk4s.github.io-7c3aed?style=for-the-badge" />
+</a>
+
+<a href="https://4rk4s.github.io/discord">
+  <img src="https://img.shields.io/badge/Discord-4rkas-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://4rk4s.github.io/mail">
+  <img src="https://img.shields.io/badge/Mail-arkas1999@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <a href="https://github.com/4RK4S">
   <img src="https://img.shields.io/badge/GitHub-4RK4S-181717?style=for-the-badge&logo=github" />
@@ -172,3 +212,4 @@ SLAHUB is one of my main projects connected with tools, automation and community
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:111827&height=120&section=footer" />
 
 </div>
+```
