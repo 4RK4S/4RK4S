@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=46&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=700&height=80&lines=4RK4S;Arkas;Python+Developer;Discord+Bot+Developer;Automation+Tools" />
@@ -212,4 +211,3 @@ A Discord bot project focused on server management, automation and community fea
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:111827&height=120&section=footer" />
 
 </div>
-```
