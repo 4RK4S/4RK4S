@@ -12,9 +12,11 @@
   <a href="https://github.com/4RK4S">
     <img src="https://komarev.com/ghpvc/?username=4RK4S&label=Profile%20views&color=7c3aed&style=for-the-badge" />
   </a>
+
   <a href="https://github.com/4RK4S?tab=followers">
     <img src="https://img.shields.io/github/followers/4RK4S?label=Followers&style=for-the-badge&color=06b6d4&logo=github" />
   </a>
+
   <a href="https://github.com/4RK4S?tab=repositories">
     <img src="https://img.shields.io/github/stars/4RK4S?label=Stars&style=for-the-badge&color=facc15&logo=github" />
   </a>
@@ -24,9 +26,11 @@
   <a href="https://4rk4s.github.io">
     <img src="https://img.shields.io/badge/Website-4RK4S-7c3aed?style=for-the-badge" />
   </a>
+
   <a href="https://4rk4s.github.io/discord">
     <img src="https://img.shields.io/badge/Discord-4rkas-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+
   <a href="https://4rk4s.github.io/mail">
     <img src="https://img.shields.io/badge/Mail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -85,8 +89,6 @@ I like creating projects that solve real problems, improve workflows, or make ma
 
 I build Discord bots and automation tools for community management.
 
-Features I have worked on:
-
 - role management
 - moderation systems
 - anti-raid / anti-nuke systems
@@ -96,39 +98,33 @@ Features I have worked on:
 - server automation
 - community events
 
+---
+
 ### 🌐 Web Projects
-
-I create web tools and dashboards using backend APIs and frontend interfaces.
-
-Examples of what I work on:
 
 - React pages and components
 - admin panels
 - REST API integrations
-- project dashboards
-- database-connected tools
+- dashboards
+- database tools
 - utility websites
 
+---
+
 ### ⚙️ Automation
-
-I enjoy automating repetitive tasks with Python, scripts and custom tools.
-
-Examples:
 
 - browser automation
 - data processing
 - API integrations
 - file management
 - game helper tools
-- Discord server workflows
+- Discord workflows
 
 ---
 
 ## ✦ Featured Projects
 
 ### SLAHUB
-
-A web project connected with tools, automation and community features.
 
 <div align="center">
 
@@ -138,9 +134,9 @@ A web project connected with tools, automation and community features.
 
 </div>
 
-### DC-BOT
+---
 
-A Discord bot project focused on server management, automation and community features.
+### DC-BOT
 
 <div align="center">
 
@@ -160,7 +156,8 @@ A Discord bot project focused on server management, automation and community fea
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4RK4S&theme=tokyonight&hide_border=true" />
+<!-- FIX: stable streak version -->
+<img src="https://streak-stats.demolab.com/?user=4RK4S&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
@@ -175,9 +172,9 @@ A Discord bot project focused on server management, automation and community fea
 - backend architecture
 - API design
 - Discord bot systems
-- full-stack project organization
-- UI/UX for web tools
-- project deployment
+- full-stack structure
+- UI/UX design
+- deployment
 - cleaner code structure
 
 ---
